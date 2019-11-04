@@ -4,9 +4,9 @@
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: 100% 100%;
-    padding: 20px;
+    padding: 30px;
     height: 560px;
-    width: auto;
+    width: 100%;
 }
 div h1 {
     text-align: center;
@@ -63,4 +63,31 @@ div article p {
     font-size: 16px;
     
 }
-/* end article /* 
+/* end article */
+
+.circImg {
+  border-radius: 50%;
+  width : 70px;
+  padding: 2px;
+}
+
+body {
+    height: 2000px;
+}
+
+
+/* start paragraph in articles */ 
+.par {
+    padding-top: 5px;
+}
+/* end paragraph in artiles */
+
+/* start footer */ 
+ footer 
+ {
+     background-color: #003459;
+     text-align: center;
+     color: #007ea7;
+ }
+
+/*end footer **/ 
